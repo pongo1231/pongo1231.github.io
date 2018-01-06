@@ -13,3 +13,7 @@ $(function() {
 		pointer++;
 	}, 10);
 });
+
+$("body").click(function() {
+	new Audio("wtf.mp3").play();
+})
