@@ -2,6 +2,10 @@ html, body {
 	height: 100%;
 	overflow: hidden;
 	cursor: url(../duck.png), pointer;
+}
+
+#soon {
+	height: 100%;
 	display: table;
     margin: auto;
 }
